@@ -1,6 +1,10 @@
 # Instructions
 
+Move into Angular project.
+
 Replace <app_name>.
+
+Alternatively update ENVs in .sh file.
 
 Run:
 
