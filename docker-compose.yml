@@ -1,0 +1,12 @@
+# replace image name
+# setup ENVs
+
+version: "3.7"
+services:
+  docang:
+    build: .
+    image: docang
+    ports:
+      - "8888:80"
+    environment:
+      - API_BASE_URL="enter_address"
