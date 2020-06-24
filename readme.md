@@ -1,3 +1,12 @@
+# TL;DR;
+
+Move into Angular project.
+
+Run:
+```
+docker-compose up -d --build
+```
+
 # Instructions
 
 Move into Angular project.
