@@ -1,6 +1,6 @@
 # TL;DR;
 
-Move into Angular project.
+Move files into Angular project.
 
 Run:
 ```
@@ -9,7 +9,7 @@ docker-compose up -d --build
 
 # Instructions
 
-Move into Angular project.
+Move files into Angular project.
 
 Replace <app_name>.
 
